@@ -19,6 +19,14 @@ public class Conditions {
         float rooms=4;
         float studentsPerRoom=rooms==0.0f?0.0f:students/rooms;
         System.out.println(studentsPerRoom);
+/*
+Else if Statements
+ */
+        if (v1<v2)
+            System.out.println("V1 is bigger");
+        else
+            System.out.println("V1 is NOT bigger");
 
+    
     }
 }
