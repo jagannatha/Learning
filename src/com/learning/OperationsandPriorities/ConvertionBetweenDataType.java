@@ -14,8 +14,9 @@ public class ConvertionBetweenDataType {
 
         //convert to Integer
 
-        String rate;
-        int NewRate=Integer.parseInt(rate);
+       // int NewRate=Integer.parseInt(rate);
+        //int NewSalary=Integer.parseInt(age);
+
 
 
     }
